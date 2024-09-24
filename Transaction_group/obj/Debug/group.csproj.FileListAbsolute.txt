@@ -1,0 +1,7 @@
+C:\Users\Anna Shi\Desktop\programing 2\group\bin\Debug\group.exe.config
+C:\Users\Anna Shi\Desktop\programing 2\group\bin\Debug\group.exe
+C:\Users\Anna Shi\Desktop\programing 2\group\bin\Debug\group.pdb
+C:\Users\Anna Shi\Desktop\programing 2\group\obj\Debug\group.csproj.AssemblyReference.cache
+C:\Users\Anna Shi\Desktop\programing 2\group\obj\Debug\group.csproj.CoreCompileInputs.cache
+C:\Users\Anna Shi\Desktop\programing 2\group\obj\Debug\group.exe
+C:\Users\Anna Shi\Desktop\programing 2\group\obj\Debug\group.pdb
